@@ -1,5 +1,5 @@
 # Sign Language Detection
-Sign Language Detectiof for the Kenya Swahili Language
+Sign Language Detection for the Kenya Sign Language
 
 ## Description: 
 The application works by capturing real-time video feed from a camera, processing each frame to detect hand landmarks using Mediapipe,
