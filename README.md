@@ -13,5 +13,5 @@ https://github.com/Jayem-11/sign_language_detection/assets/90609118/a0d79c81-c76
 pip install mediapipe
 pip install opencv-python
 ```
-Run the **inference.py** file to check it out. 
+Run the **inference.py** file to check how it works 👨🏽‍💻. 
 
