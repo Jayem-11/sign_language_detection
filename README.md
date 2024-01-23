@@ -1,3 +1,6 @@
+# Used_Car_Prices
+Predicting used car prices in New York and California using ANN and Linear Regression
+
 # Sign Language Detection
 Sign Language Detection for the Kenya Sign Language
 
