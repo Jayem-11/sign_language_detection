@@ -8,4 +8,10 @@ and feeding these landmarks to the a Random Forest classifier. The model then pr
 
 https://github.com/Jayem-11/sign_language_detection/assets/90609118/a0d79c81-c768-42a7-a4a6-2acdf826ce93
 
+## Requirements
+```
+pip install mediapipe
+pip install opencv-python
+```
+Run the **inference.py** file to check it out. 
 
